@@ -1,0 +1,1 @@
+// Stub file - functionality moved to React components
