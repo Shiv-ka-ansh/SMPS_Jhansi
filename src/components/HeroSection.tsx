@@ -73,7 +73,7 @@ export function HeroSection({ onNavigateToAdmissions }: HeroSectionProps) {
       </div>
       
       {/* Background Pattern */}
-      <div className="absolute inset-0 pointer-events-none">
+      <div className="absolute inset-0 opacity-5 pointer-events-none">
         <div className="absolute top-20 left-20 w-32 h-32 border border-white rounded-full"></div>
         <div className="absolute bottom-20 right-20 w-24 h-24 border border-white rounded-full"></div>
         <div className="absolute top-1/2 left-1/4 w-16 h-16 border border-white rounded-full"></div>
